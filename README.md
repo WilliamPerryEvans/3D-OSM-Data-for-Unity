@@ -1,5 +1,5 @@
 # Importing 3D GIS Data into Unity
-{%hackmd -gP7sZzbSw2Rv-OUA6YxJA %}
+
 ## OpenStreetMap :arrow_right: Blender :arrow_right: Unity 
 
 
